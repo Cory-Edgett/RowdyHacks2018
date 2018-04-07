@@ -1,0 +1,16 @@
+
+AndroidApp/build\.gradle
+
+AndroidApp/gradle\.properties
+
+AndroidApp/gradlew\.bat
+
+AndroidApp/settings\.gradle
+
+AndroidApp/gradlew
+
+AndroidApp/gradle/wrapper/
+
+AndroidApp/app/build\.gradle
+
+AndroidApp/app/proguard-rules\.pro
